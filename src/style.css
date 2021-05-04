@@ -62,7 +62,7 @@ body {
 
 div.black-keys kbd.first {
     position: relative;
-    left: -163px;
+    left: -165px;
 }
 
 div.black-keys kbd.right {
@@ -72,15 +72,15 @@ div.black-keys kbd.right {
 
 div.black-keys kbd.left {
     position: absolute;
-    left: 44px;
+    left: 45px;
 }
 
 div.black-keys kbd.middle {
     position: absolute;
-    left: 113px;
+    left: 115px;
 }
 
 div.black-keys kbd.last {
     position: absolute;
-    left: 183px;
+    left: 185px;
 }
